@@ -1,0 +1,8 @@
+name: base-api
+version: '1.0-SNAPSHOT'
+main: org.canghai.baseApi.Main
+api-version: '1.20'
+load: STARTUP
+authors: [RedstoneDist6835]
+description: The base api of the server.
+website: https://github.com/RedstoneDist6835/base-api
